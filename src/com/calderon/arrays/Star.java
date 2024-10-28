@@ -8,8 +8,17 @@ public class Star {
 		//MyArrays myArrays = new MyArrays();
 		//myArrays.init();
 		
-		ShowArray showArray = new ShowArray();
-		showArray.init();
+		//ShowArray showArray = new ShowArray();
+		//showArray.init();
+		
+		//AverageArray averageArray = new AverageArray();
+		//averageArray.init();
+		
+		//IncrementArray incrementArray = new IncrementArray();
+		//incrementArray.init();
+		
+		MenuArrays menuArrays = new MenuArrays();
+		menuArrays.init();
 		
 		System.out.println("End Program");
 
